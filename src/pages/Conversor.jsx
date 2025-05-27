@@ -9,7 +9,7 @@ function Conversor() {
     'Chapa fina': 7.85,
     'Barra redonda': 6.5,
     'Perfil I': 9.0,
-    'Tubo retangular': 5.4,
+    'Tubo retangular': 5.4
   };
 
   const calcularPeso = () => {
